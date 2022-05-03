@@ -1,0 +1,3 @@
+"Data.java" è una classe che implementa metodi per la gestione di date
+
+"Progetto_Data.java" contiene un metodo main per testare alcune funzionalità della classe

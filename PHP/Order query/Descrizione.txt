@@ -1,0 +1,7 @@
+File da eseguire : seleziona.php
+
+Visualizza i dettagli dell'ordine specificato tramite il menu a tendina.
+
+Il programma sfrutta le tecniche AJAX per richiedere i dati al server e visualizzarli senza aggiornare la pagina.
+
+Il database di riferimento è "northwind_itdic13.sql"

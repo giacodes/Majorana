@@ -1,0 +1,2 @@
+Entrambi i progetti contengono una classe che implementa metodi per la gestione dell'oggetto (frazione o data),
+ ed una contenente un metodo main per testarli
